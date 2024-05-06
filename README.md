@@ -1,6 +1,6 @@
 # Hai! 👋 Aku Ahmad Salafudin
 
-Seorang penggiat kode yang sering menyelesaikan masalah sebelum kopi liong segelas abis, selalu merhatiin kode biar bersih dan rapih. Sekarang, aku terombang-ambing di samudra web development, mencari harta karun teknologi yang belum tersentuh untuk memperkaya petualanganku.
+Seorang penggiat kode yang sering menyelesaikan masalah sebelum kopi liong segelas abis. Selalu merhatiin kode biar bersih dan rapih. Sekarang, aku terombang-ambing di samudra web development, mencari harta karun teknologi yang belum tersentuh untuk memperkaya petualanganku.
 
 🔭 **Sedang Sibuk Nyiapin:**  
 Proyek "Huninanku, Bahagia!", sebuah aplikasi untuk memudahkan para tetangga ngobrol dan berbagi cemilan virtual. 
@@ -19,3 +19,17 @@ Kirim surat lewat kabel internet ke ahmadsalafudin.dev@gmail.com atau kepoin di 
 
 ⚡ **Fakta Nyeleneh:**  
 Pernah maksain makan durian, sampai pingsan dua hari dua malam.
+
+### ⚙️ GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/ahmadsalafudin">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmadsalafudin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmadsalafudin&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmadsalafudin&label=Profile+Views&color=blueviolet&style=flat-square" alt="ahmadsalafudin" />
+</p>
+
