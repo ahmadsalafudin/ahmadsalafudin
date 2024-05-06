@@ -17,8 +17,6 @@ Mulai dari kenapa internet lambat sampe apa sih rahasia agar kode makin bersih d
 📫 **Cara Nyari Aku:**  
 Kirim surat lewat kabel internet ke ahmadsalafudin.dev@gmail.com atau kepoin di [ahmadsalafudin.my.id](https://ahmadsalafudin.my.id).
 
-⚡ **Fakta Nyeleneh:**  
-Pernah maksain makan durian, sampai pingsan dua hari dua malam.
 
 ### ⚙️ GitHub Analytics
 
