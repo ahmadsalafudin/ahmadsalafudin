@@ -1,6 +1,6 @@
 # Hai! 👋 Aku Ahmad Salafudin
 
-Seorang penggiat kode yang sering menyelesaikan masalah sebelum kopi liong segelas abis. Selalu merhatiin kode biar bersih dan rapih. Sekarang, aku terombang-ambing di samudra web development, mencari harta karun teknologi yang belum tersentuh untuk memperkaya petualanganku.
+Seorang penggiat kode yang suka sama teknologi kekinian. Sekarang, aku lagi tertarik sama web development.
 
 🔭 **Sedang Sibuk Nyiapin:**  
 Proyek "Huninanku, Bahagia!", sebuah aplikasi untuk memudahkan para tetangga ngobrol dan berbagi cemilan virtual. 
@@ -10,12 +10,6 @@ Aku lagi ngikutin pelajaran kerasnya dunia React, Flutter, dan Golang.
 
 💼 **Open to Join Work:**  
 Mau nawarin project boleh, nawarin kerjaan yg gajinya lebih gede juga boleh, yg penting jangan nawarin bug.
-
-💬 **Tanyain Aku Soal Apa Saja:**  
-Mulai dari kenapa internet lambat sampe apa sih rahasia agar kode makin bersih dari sarang laba-laba.
-
-📫 **Cara Nyari Aku:**  
-Kirim surat lewat kabel internet ke ahmadsalafudin.dev@gmail.com atau kepoin di [ahmadsalafudin.my.id](https://ahmadsalafudin.my.id).
 
 
 ### ⚙️ GitHub Analytics
